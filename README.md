@@ -1,5 +1,4 @@
-[index.html.html](https://github.com/user-attachments/files/22315047/index.html.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -157,8 +156,8 @@
     <header>
         <div class="container">
             <div class="logo-container">
-                <!-- Updated logo image with relative path -->
-                <img src="assets/images/Gemini_Generated_Image_fzrzqpfzrzqpfzrz.png" alt="MUQ Services Logo" class="logo">
+                <!-- Updated logo image with the uploaded image path -->
+                <img src="/mnt/data/Untitled design (1).jpg" alt="MUQ Services Logo" class="logo">
             </div>
             <h1>MUQ Services</h1>
             <p>Your Partner in Business Solutions</p>
@@ -204,18 +203,4 @@
 
     <div class="section contact">
         <div class="container">
-            <h2 class="section-title">Contact Us</h2>
-            <div class="contact-info">
-                <p>Email: <a href="mailto:muqservices@gmail.com">muqservices@gmail.com</a></p>
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/muq-services-0a012a384/" target="_blank">MUQ Services</a></p>
-            </div>
-        </div>
-    </div>
-
-    <footer class="footer">
-        <div class="container">
-            &copy; 2025 MUQ Services. All Rights Reserved.
-        </div>
-    </footer>
-</body>
-</html>
+            <h2 class="section-title">Contact Us<
